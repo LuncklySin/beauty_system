@@ -10,7 +10,6 @@
 <img width="1240" alt="c507ed58ef18a05f4deea917ea09c0e" src="https://github.com/user-attachments/assets/fe9d4675-454a-4672-aa86-43787668eb85" />
 <img width="1267" alt="d9025b99df2a3a3c4838760dc64a445" src="https://github.com/user-attachments/assets/fb33656c-f567-48f4-9516-f21b2a248ff3" />
 <img width="1280" alt="96d1323d17d87e0882210c8af47f543" src="https://github.com/user-attachments/assets/c9c65e2c-f338-4df0-87bd-4753ffc672ae" />
-<img width="1246" alt="a6ca512cc7aa9ec219fd1f51922cb83" src="https://github.com/user-attachments/assets/095fa775-fcb3-4413-8ec1-32c7d1a4a5c9" />
 
 ## 🛠 技术栈
 
