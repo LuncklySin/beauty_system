@@ -1,4 +1,4 @@
-<img width="1246" alt="a6ca512cc7aa9ec219fd1f51922cb83" src="https://github.com/user-attachments/assets/095fa775-fcb3-4413-8ec1-32c7d1a4a5c9" />#  beauty_system - 美妆美饰巧搭平台 - 更多在微信 ： jackSinWu --在咸鱼：不知名选手java小鑫
+#  beauty_system - 美妆美饰巧搭平台 - 更多在微信 ： jackSinWu --在咸鱼：不知名选手java小鑫
 
 美妆美饰巧搭平台是一个集 **穿搭推荐、妆容学习、搭配分享、互动交流** 于一体的个性化推荐平台，基于用户的外貌特征（如身材、肤色、风格）和使用场景，实现智能推荐与个性化服务，助力用户提升形象管理与美妆搭配能力。
 
@@ -10,7 +10,7 @@
 <img width="1240" alt="c507ed58ef18a05f4deea917ea09c0e" src="https://github.com/user-attachments/assets/fe9d4675-454a-4672-aa86-43787668eb85" />
 <img width="1267" alt="d9025b99df2a3a3c4838760dc64a445" src="https://github.com/user-attachments/assets/fb33656c-f567-48f4-9516-f21b2a248ff3" />
 <img width="1280" alt="96d1323d17d87e0882210c8af47f543" src="https://github.com/user-attachments/assets/c9c65e2c-f338-4df0-87bd-4753ffc672ae" />
-
+<img width="1246" alt="a6ca512cc7aa9ec219fd1f51922cb83" src="https://github.com/user-attachments/assets/095fa775-fcb3-4413-8ec1-32c7d1a4a5c9" />
 
 ## 🛠 技术栈
 
